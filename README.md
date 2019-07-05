@@ -25,8 +25,8 @@ $ php composer.phar install
 
 # SheetJS
 
-## 
-* https://sheetjs.com/
+## 데모 사이트
+* https://sheetjs.com/demos
 
 ## 예시
 ```html
